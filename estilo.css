@@ -10,7 +10,7 @@ body{
 }
 
 #area-cabecalho{
-	background-color: #f7b600;
+	background-color: #21aa3f;
 	text-align: center;
 	padding: 15px;
 }
@@ -91,8 +91,8 @@ h3{
 }
 
 #area-lateral a:link, #area-lateral a:visited{
-	color: black;
-	background: #f7b600;
+	color: rgb(230, 49, 49);
+	background: #1ee772;
 	padding: 0.5px;
 	font-size: 0.8em;
 	align-items: center;
